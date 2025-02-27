@@ -1,4 +1,4 @@
-FROM professor7xh/area51:heroku
+FROM professor7xh/area51:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
